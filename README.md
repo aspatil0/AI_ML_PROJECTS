@@ -12,6 +12,7 @@ Folder Structure
 bash
 Copy
 Edit
+'''''''''''''''''
 ├── data/               # Datasets used in projects
 ├── notebooks/          # Jupyter notebooks for analysis and visualization
 ├── models/             # Pretrained and custom-trained models
